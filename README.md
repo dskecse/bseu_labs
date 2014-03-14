@@ -1,4 +1,4 @@
-BSEU_labs
+BSEU labs
 ---
 
 There are sources of my university labs.
